@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CE728FE0-2602-453F-9EE8-FC915FA6793A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicGame/Game1.cs">
+    <Files>
+      <File FileName="BasicGame/Game1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BasicGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
